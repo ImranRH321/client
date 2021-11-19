@@ -1,0 +1,8 @@
+.bg{
+    background-image: linear-gradient(to right top, #0e0f0b, #09150f, #00191a, #001b27, #111b30);
+    color: whitesmoke;
+}
+.color{
+    width: 30%;
+    /* padding: 0px; */
+}
